@@ -10,5 +10,8 @@ export default defineConfig([
     files: ['**/*.{js,mjs,cjs}'],
     plugins: { js },
     extends: ['js/recommended', prettier],
+    rules: {
+      'no-unused-vars': 'off',
+    },
   },
 ]);
