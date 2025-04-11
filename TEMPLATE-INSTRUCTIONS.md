@@ -1,5 +1,7 @@
 # 🛠️ How to Use This Repository as a DSA Practice Template
 
+![Practice](./assets/rocky.gif)
+
 This repo is designed to help developers practice algorithms and data structures (DSA) using JavaScript and Vitest.
 
 ## 📦 Features
