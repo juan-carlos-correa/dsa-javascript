@@ -1,3 +1,5 @@
+> 📄 **New here?** 👉 [See how to use this template →](./TEMPLATE-INSTRUCTIONS.md)
+
 # [EXERCISE TITLE HERE]
 
 > Replace this section with a one-line summary of the exercise.  
