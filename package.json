@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "vitest",
     "lint": "eslint .",
     "prepare": "husky install"
   },
@@ -19,7 +19,8 @@
     "globals": "^16.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.0",
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "vitest": "^3.1.1"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix --max-warnings 0"
