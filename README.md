@@ -64,6 +64,6 @@ npm install
 npm run test
 ```
 
-✅ Make sure your implementation is in `src/main.mjs` and your tests in `test/main.test.js`.
+✅ Make sure your implementation is in `src/main.mjs` and your tests in `src/main.test.js`.
 
 Happy coding! 🚀
